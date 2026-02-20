@@ -1,2 +1,2 @@
 # compass-intake
-COMPASS Discovery Intake — 12-Month Calibration System
+COMPASS Discovery Intake — Calibration System
